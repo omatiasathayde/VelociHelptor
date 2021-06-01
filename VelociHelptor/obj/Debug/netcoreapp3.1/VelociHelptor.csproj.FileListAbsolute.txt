@@ -1,0 +1,13 @@
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\bin\Debug\netcoreapp3.1\VelociHelptor.exe
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\bin\Debug\netcoreapp3.1\VelociHelptor.deps.json
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\bin\Debug\netcoreapp3.1\VelociHelptor.runtimeconfig.json
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\bin\Debug\netcoreapp3.1\VelociHelptor.runtimeconfig.dev.json
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\bin\Debug\netcoreapp3.1\VelociHelptor.dll
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\bin\Debug\netcoreapp3.1\VelociHelptor.pdb
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.csprojAssemblyReference.cache
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.AssemblyInfoInputs.cache
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.AssemblyInfo.cs
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.csproj.CoreCompileInputs.cache
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.dll
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.pdb
+C:\Users\carolina.moraes\source\repos\VelociHelptor\VelociHelptor\obj\Debug\netcoreapp3.1\VelociHelptor.genruntimeconfig.cache
