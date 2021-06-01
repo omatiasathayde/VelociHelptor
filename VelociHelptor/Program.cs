@@ -62,7 +62,7 @@ namespace VelociHelptor
             int entradatipousuario = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite sua senha: ");
-            int entradasenha = int.Parse(Console.ReadLine());
+            string entradasenha = Console.ReadLine();
 
 
 
@@ -134,11 +134,11 @@ namespace VelociHelptor
 
         private static void ListarChamados() // Para listar chamados cadastrados
         {
-            Console.WriteLine("Listar usuários");
+            Console.WriteLine("Listar chamado");
 
             if (listChamado.Count == 0)
             {
-                Console.WriteLine("Nenhuma usuário cadastrado.");
+                Console.WriteLine("Nenhuma chamado cadastrado.");
                 return;
             }
 

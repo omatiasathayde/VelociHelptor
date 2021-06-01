@@ -12,10 +12,10 @@ namespace VelociHelptor
         private Tipo Tipo { get; set; } //Opção por tipo de usuário
         private string Nome { get; set; }
         private string Email { get; set; }
-        private int Senha { get; set; }
+        private string Senha { get; set; }
 
 
-        public Usuario (Tipo Tipo,  string Nome, string Email, int Senha) 
+        public Usuario (Tipo Tipo,  string Nome, string Email, string Senha) 
         {
             this.Tipo = Tipo;
             this.Nome = Nome;
@@ -27,9 +27,9 @@ namespace VelociHelptor
         public override string ToString()   // Criado para sobscrever o ToString da classe mãe, para ser possível a leitura no console.
         {
             string retorno = "";
-            retorno += "Tipo: " + this.Tipo + " | ";
             retorno += "Nome: " + this.Nome + " | ";
             retorno += "Email: " + this.Email + " | ";
+            retorno += "Tipo: " + this.Tipo + " | ";
             return retorno;
         }
 

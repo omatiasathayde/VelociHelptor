@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carolina.moraes\\source\\repos\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj": {}
+    "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carolina.moraes\\source\\repos\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carolina.moraes\\source\\repos\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj",
         "projectName": "VelociHelptor",
-        "projectPath": "C:\\Users\\carolina.moraes\\source\\repos\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj",
-        "packagesPath": "C:\\Users\\carolina.moraes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carolina.moraes\\source\\repos\\VelociHelptor\\VelociHelptor\\obj\\",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carolina.moraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
