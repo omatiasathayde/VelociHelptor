@@ -10,7 +10,7 @@ namespace VelociHelptor
 
         static void Main(string[] args)
         {
-            Console.ForegroundColor = (ConsoleColor.Green);
+            Console.ForegroundColor = (ConsoleColor.Gray);
 
             string opcaoUsuario = ObterOpcaoUsuario();
 

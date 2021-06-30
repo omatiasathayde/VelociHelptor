@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor - Programa\\VelociHelptor.csproj",
       "projectName": "VelociHelptor",
-      "projectPath": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\VelociHelptor.csproj",
+      "projectPath": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor - Programa\\VelociHelptor.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Documents\\Processing\\VelociHelptor\\VelociHelptor - Programa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
